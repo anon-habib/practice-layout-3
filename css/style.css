@@ -1,0 +1,109 @@
+			/*head starts*/
+header {
+	background-color: palevioletred;
+	overflow: hidden;
+}
+
+#logo {
+	float: left;
+	margin-left: 20px;
+}
+
+nav {
+	float: right;
+	margin-right: 20px;
+}
+			/*head ends*/
+
+			/*main starts*/
+#container {
+	height: 500px;
+	background-color: blueviolet;
+	overflow: hidden;
+}
+
+#clints {
+	width: 40%;
+	height: 400px;
+	background-color: orange;
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+	overflow: hidden;
+}
+
+.gov {
+	width: 30%;
+	height: 300px;
+	background-color: skyblue;
+	float: left;
+	margin: 50px 55px;
+}
+
+.non-gov {
+	width: 30%;
+	height: 300px;
+	background-color: #4A3F93;
+	float: left;
+	margin: 50px 55px;
+}
+
+#services {
+	width: 40%;
+	height: 400px;
+	margin-top: 50px;
+	margin-right: 50px;
+	background-color: #66FF68;
+	float: right;
+}
+
+.service1 {
+	width: 85%;
+	min-height: 100px;
+	background-color: #807861;
+	margin: 25px 45px;
+}
+
+.service2 {
+	width: 85%;
+	min-height: 100px;
+	background-color: white;
+	margin: 25px 45px;
+}
+
+.service3 {
+	width: 85%;
+	min-height: 100px;
+	background-color: black;
+	margin: 25px 45px;
+}
+
+#about {
+	height: 300px;
+	overflow: hidden;
+}
+
+.us {
+	width: 40%;
+	height: 200px;
+	float: left;
+	background-color: #FFCB30;
+	margin-top: 50px;
+	margin-left: 70px;
+}
+
+.company {
+	width: 40%;
+	height: 200px;
+	float: right;
+	background-color: #9B1A5E;
+	margin-top: 50px;
+	margin-right: 70px;
+}
+			/*main ends*/
+
+			/*footer starts*/
+footer {
+	height: 500px;
+background-color: yellowgreen;}
+			/*footer ends*/
